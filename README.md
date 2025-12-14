@@ -1,5 +1,4 @@
-# Movie-Recommendation-System-C
-# Movie Recommendation System (C)
+# MovieMate
 
 A C project by Prajwal-Sameer that recommends movies
 based on selected genres.
